@@ -1,0 +1,12 @@
+Flask
+Jinja2
+Werkzeug
+youtube-transcript-api
+langchain-community
+pytube
+langchain-ollama
+faiss-cpu
+numpy
+yt-dlp
+groq
+anthropic
